@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+#numbers{
+    display: flex;
+    position: fixed;
+    right: 0;
+    top: 0;
+} 
+ #numero1, #numero2, #numero3{
+    margin-right: 50px;
+    margin-top: 40px;
+    background: white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    text-align: center; 
+ }
+ #testo{
+    margin-top: 13px;
+    font-size: 20px;
+ }
+.Red{
+    height: 100vh;
+    background-color: Red;
+}
+.Green{
+    height: 100vh;
+    background-color: Green;
+}
+.Yellow{
+    height: 100vh;
+    background-color: yellow;
+}
