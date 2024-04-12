@@ -34,3 +34,17 @@
     height: 100vh;
     background-color: yellow;
 }
+#scarpa1{
+    margin-top: 10%;
+    margin-left: 30%;
+}
+#titleshoes{
+    font-size: 40px;
+    text-align: center;
+    color: yellow;
+}
+#titleshoes2{
+    font-size: 40px;
+    text-align: center;
+    color: green;
+}
